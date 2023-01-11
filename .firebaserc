@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "e-commerce-react-template",
+    "staging": "commerce-react-d8428"
+  },
+  "targets": {},
+  "etags": {}
+}
